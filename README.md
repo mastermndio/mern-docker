@@ -1,3 +1,15 @@
+#MASTERMND ACADEMY
+- To Build Docker Image
+
+```
+docker build -t mern-app
+```
+
+- To build and run via compose
+```
+docker-compose up
+```
+
 # MERN Social 2.0
 - *Looking for the first edition code? [Check here](https://github.com/shamahoque/mern-social/tree/master)*
 
