@@ -2,7 +2,7 @@
 - To Build Docker Image
 
 ```
-docker build -t mern-app
+docker build -t mern-app .
 ```
 
 - To build and run via compose
